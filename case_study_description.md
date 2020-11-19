@@ -2,6 +2,11 @@
 
 In this case study you'll work in a situation more like that you'll find in your personal projects, while interviewing, and in industry. What is meant by that? This data is usually unstructured/dirty and the problem ill/undefined.
 
+# Video Introduction
+
+For a Video intro to this case study, check out this link:
+[UFO Breifing](https://youtu.be/H-s-v764BPw)
+
 ## The Data
 
 There are two data sets you can choose to work from, one about UFO sightings and the other about Bigfoot sightings.  They are both large files, though there are subsets (the first 100 records) of both datasets in the `data` folder.
