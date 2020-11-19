@@ -1,4 +1,11 @@
-# NLP Unsupervised Learning Case Study
+# NLP Case Study
+- [NLP Case Study](#nlp-case-study)
+  - [The Data](#the-data)
+      - [UFO Sightings](#ufo-sightings)
+      - [Bigfoot Sightings](#bigfoot-sightings)
+  - [The Problem](#the-problem)
+  - [Presentation](#presentation)
+  - [Resources](#resources)
 
 In this case study you'll work in a situation more like that you'll find in your personal projects, while interviewing, and in industry. What is meant by that? This data is usually unstructured/dirty and the problem ill/undefined.
 
