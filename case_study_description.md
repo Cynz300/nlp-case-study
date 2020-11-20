@@ -40,6 +40,8 @@ Place your results in the README file.  Please consider presenting
 
 ## Resources
 
+**Tip**: Use Beautiful Soup to find features of interest from the data by navigating html tags.
+
 Turns out the person who scraped the data left the beginnings of a Python script to load the data with, but even they left a note that it's not very helpful.  See the `example_reading_and_parsing_data.ipynb` for a more extended example.
 
 ```python
